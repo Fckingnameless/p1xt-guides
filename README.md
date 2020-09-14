@@ -117,7 +117,7 @@ If you didn't do App Academy Open in Tier 0, please consider doing it as your Sp
 
 | Courses                                                                                                                                                                                                |   Status   |   Evidence   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                               |            |              |
+| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) ([Link2](https://cs50.harvard.edu/x/2020))                                                                              |            |              |
 | [How to Learn Math: For Students](https://online.stanford.edu/courses/gse-yeduc115-s-how-learn-math-students)                                                                                          |            |              |
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                       |            |              |
 | Do this: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous)                                                               |            |              |
