@@ -23,7 +23,8 @@ March: App Academy Open (30 hours/week), CS50 Web Programming with Python (10 ho
 April: Research jobs in your local area (not to apply, but to see what's available), pick a backend language that is desirable in your area, study it. Study the docs. Study it on GeeksForGeeks. Build one project per week of increasing difficulty.
 May-June: Study the Algorithms and Data Structures sections of GeeksForGeeks one day a week. Practice doing problems on HackerRank one day a week. Spend the rest of the week perfecting one spectacular project per month for your portfolio.
 July: Clean up projects and assemble a clean looking, aesthetically pleasing, portfolio. Craft your resume/CV. Spend one day a week (minimum) practicing problems on HackerRank or doing problems from a past Google Code Jam.
-Notes
+
+## Notes
 By April, you should have learned how to branch and commit code to Git using meaningful commit messages - ensure you adhere to this during your May-July activities.
 You should also have learned the importance of testing, linting, and formatting your code consistently - keep this in mind as well from May-July.
 You could freely substitute Full Stack Open for App Academy Open above, it is just as good a resource - the trade off is that App Academy has a bit gentler introduction at the start (though both end at about the same difficulty).
